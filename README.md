@@ -1,6 +1,6 @@
 # Baidu BCE Capture iOS SDK
 
-百度开放云推流端iOS SDK提供Cocoapods支持。
+百度云推流端iOS SDK提供Cocoapods支持。
 
 ## 接入
 
@@ -9,4 +9,4 @@
 pod 'BaiduBCECapture', "~> 2.0"
 ```
 
-关于SDK的`接口文档`，请移步[百度开放云官网](https://cloud.baidu.com/doc/LSS/iOS-Capture-SDK.html)
+关于SDK的`接口文档`，请移步[百度云官网](https://cloud.baidu.com/doc/LSS/iOS-Capture-SDK.html)
