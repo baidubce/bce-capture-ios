@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = 'BaiduBCECapture'
-  s.version      = '2.1.2'
+  s.version      = '2.1.2.1'
   s.summary      = 'Baidu BCE iOS Capture SDK'
   s.homepage     = 'https://cloud.baidu.com/doc/LSS/iOS-Capture-SDK.html'
   s.license      = {
@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
     Baidu BCE iOS Capture SDK supoort iOS 8.0 and later,
   DESC
   s.author   =   { 'Baidu Cloud Multimedia Team' => 'bce-multimedia@baidu.com' }
-  s.source   =   { :http => 'http://sdk.bce.baidu.com/media-sdk/Baidu-Capture-SDK-iOS-2.1.2.zip?responseContentDisposition=attachment',:sha1 => "d9d605684bc13789ffdad26e65f1e1a05eecb02b"}
+  s.source   =   { :http => 'http://sdk.bce.baidu.com/media-sdk/Baidu-Capture-SDK-iOS-2.1.2.zip?responseContentDisposition=attachment',:sha1 => "439e809a885eee052d674cdd3bddc60bbdfc934d"}
 
   s.prepare_command = <<-CMD
     VERSION="2.1.2"
